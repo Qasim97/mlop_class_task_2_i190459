@@ -23,4 +23,4 @@ jobs:
 
       - name: Execute tests
         run: |
-          pytest
+          pytest test.py
